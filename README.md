@@ -1,6 +1,9 @@
 # Sven Co-op Nostalgia NPCs
 for Sven Co-op 5.0+ modified by Garompa as of 12/09/2024
 
+## Preview
+![nostalgianpcs](https://github.com/GarompaEstomper/Nostalgia_NPCs_Pack/blob/main/nostalgianpcs.jpg)
+
 ## Links
 
 - [GoogleDrive](https://drive.google.com/file/d/15xTx-k9fP_yjnwK4rJYVg097koqGxZXW/view?usp=sharing)
