@@ -28,7 +28,7 @@ This pack replaces default and custom NPC models from most maps with enhanced an
 * BrainDead with: -Nagazaki-, MG_Pro, Melih_Oksuzce, INA3C, Crowbar Collective, Kreze (Headcrab, Houndeye, Tentacle, Bullsquid)
 * Garompa (rigging, retexturing, fixing and modifying)
 * And obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
-
+* DGF (turrets and sentry model remakes)
 
 
 ## Additional Credits
