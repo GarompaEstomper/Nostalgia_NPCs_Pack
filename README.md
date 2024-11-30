@@ -29,6 +29,7 @@ This pack replaces default and custom NPC models from most maps with enhanced an
 * Garompa (rigging, retexturing, fixing and modifying)
 * And obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
 * DGF (turrets and sentry model remakes)
+* Föur-Nïnes (animations fix for the desert circle hgrunt, for server compatibility)
 
 
 ## Additional Credits
